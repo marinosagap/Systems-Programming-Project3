@@ -1,4 +1,4 @@
-##Selective Overhead Mirroring System
+Selective Overhead Mirroring System
 Implementation of distributed transferring of files and directories from many Worker-Servers to one Manager-Server, using Shared Memory
 , Multi- threading , Mutexes , Condition Variables and sockets for communication
 between the threads running on different machines.
